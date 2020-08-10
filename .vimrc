@@ -10,6 +10,9 @@ call plug#begin('~/.vim/plugged')
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'tomasr/molokai'
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-commentary'
 
 call plug#end()
 
@@ -89,7 +92,7 @@ if !exists('g:airline_powerline_fonts')
     let g:airline_symbols.paste     = 'ρ'
     let g:airline_symbols.paste     = 'Þ'
     let g:airline_symbols.paste     = '∥'
-let g:airline_symbols.whitespace = 'Ξ'
+    let g:airline_symbols.whitespace = 'Ξ'
 else
     let g:airline#extensions#tabline#left_sep = ''
     let g:airline#extensions#tabline#left_alt_sep = ''
@@ -128,7 +131,6 @@ set hidden
 
 
 " Autocmd
-
 augroup remove-spaces
     autocmd!
     autocmd BufWritePre * :%s/\s\+$//ge
