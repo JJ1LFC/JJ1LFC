@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at [Keio University SFC](https://www.sfc.keio.ac.jp)
 - 🤔 I’m looking for help with my life
-- 📫 How to reach me: Mail, Twitter, Telegram, Keybase
+- 📫 How to reach me: Email, Twitter, Telegram, Keybase
 
 
-View more profile at [my wiki](https://wiki.jj1lfc.dev/aboutme)!
+View more profile at [my blog](https://blog.jj1lfc.dev/about)!
