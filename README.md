@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJ1LFC)
 
 [![Private Email](https://img.shields.io/badge/Private%20Email-alt%40jj1lfc.dev-red?style=for-the-badge)](mailto:alt@jj1lfc.dev)
-[![Work Email](https://img.shields.io/badge/Work%20Email-alt%40nic.ad.jp-grenn?style=for-the-badge)](mailto:alt@nic.ad.jp)
+[![Work Email](https://img.shields.io/badge/Work%20Email-alt%40nic.ad.jp-green?style=for-the-badge)](mailto:alt@nic.ad.jp)
 [![Twitter](https://img.shields.io/twitter/follow/jj1lfc?style=for-the-badge&logo=twitter)](https://twitter.com/jj1lfc)
 
 [![Private PGP Key](https://img.shields.io/badge/Private%20PGP%20Key-alt%40jj1lfc.dev-red?style=for-the-badge)](https://keys.openpgp.org/search?q=alt%40jj1lfc.dev)
